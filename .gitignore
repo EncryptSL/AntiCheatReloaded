@@ -1,0 +1,7 @@
+/target/
+/.*
+*.iml
+*.properties
+.project
+.classpath
+/.settings/

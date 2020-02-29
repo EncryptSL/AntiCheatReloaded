@@ -1,0 +1,8 @@
+name: AntiCheatReloaded
+author: Rammelkast
+description: AntiCheatReloaded prevents players from using cheats
+main: com.rammelkast.anticheatreloaded.AntiCheatReloaded
+api-version: 1.13
+depend: [ProtocolLib]
+startup: postworld
+version: ${project.build.version}
